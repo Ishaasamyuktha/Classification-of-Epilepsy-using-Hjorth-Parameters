@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="96fa7262-7594-485d-938d-f835f6352c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Classifiers-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Classifiers-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classifiers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classifiers.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588435882961</updated>
-      <workItem from="1588435896647" duration="757000" />
+      <workItem from="1588435896647" duration="831000" />
     </task>
     <servers />
   </component>
